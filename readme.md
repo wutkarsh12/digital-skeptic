@@ -2,6 +2,18 @@
 
 A web-based application that helps users critically analyze news articles and online content for bias, credibility, and journalistic quality. The tool scrapes article content from URLs and provides comprehensive analysis including credibility scoring, language analysis, and verification questions.
 
+
+## Screenshots
+
+**Home Page – Analyze News Article**
+[Screenshot 1](images/Screenshot1.png)
+
+**Critical Analysis Report**
+[Screenshot 2](images/Screenshot2.png)
+
+**Red Flags & Verification Questions**
+[Screenshot 3](images/Screenshot3.png)
+
 ## Features
 
 - **Article Scraping**: Automatically extracts content from news article URLs
